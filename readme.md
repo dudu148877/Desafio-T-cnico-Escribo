@@ -8,7 +8,7 @@ Clone o repositório:
 
 bash
 Copy code
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/dudu148877/Desafio-T-cnico-Escribo
 cd seu-repositorio
 Abra o arquivo index.html em um navegador da web.
 
