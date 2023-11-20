@@ -44,4 +44,4 @@ Eduardo de Souza
 
 Contato
 Email: eduardodesouza4488@gmail.com
-LinkedIn: Perfil LinkedIn
+
