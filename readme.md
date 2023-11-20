@@ -28,19 +28,7 @@ styles.css: Arquivo CSS contendo estilos para tornar a página responsiva.
 Estilo Responsivo
 O arquivo styles.css foi projetado para tornar a página responsiva e apresenta uma cor de fundo mais clara e esquema de cores mais amigável.
 
-Licença
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para obter detalhes.
-
-Contribuindo
-Se quiser contribuir para este projeto, siga estas etapas:
-
-Fork do projeto
-Crie um branch para suas alterações (git checkout -b feature/sua-feature)
-Faça commit de suas alterações (git commit -am 'Adiciona nova funcionalidade')
-Faça push para o branch (git push origin feature/sua-feature)
-Abra um Pull Request
-Autor
-Eduardo de Souza
+https://dudu148877.github.io/Desafio-T-cnico-Escribo/
 
 Contato
 Email: eduardodesouza4488@gmail.com
